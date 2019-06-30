@@ -1,0 +1,4 @@
+[16-Mar-2016 14:55:33 UTC] PHP Parse error:  syntax error, unexpected ''admin@creacity.co'' (T_CONSTANT_ENCAPSED_STRING) in /home/creacity/public_html/php/subscription.php on line 7
+[16-Mar-2016 14:55:39 UTC] PHP Parse error:  syntax error, unexpected ''admin@creacity.co'' (T_CONSTANT_ENCAPSED_STRING) in /home/creacity/public_html/php/subscription.php on line 7
+[16-Mar-2016 14:56:00 UTC] PHP Parse error:  syntax error, unexpected ''admin@creacity.co'' (T_CONSTANT_ENCAPSED_STRING) in /home/creacity/public_html/php/mail.php on line 19
+[16-Mar-2016 14:58:22 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/creacity/public_html/php/subscription.php on line 7
